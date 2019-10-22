@@ -1,0 +1,9 @@
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\bin\clase 22 septiembre.dll
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\bin\clase 22 septiembre.pdb
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\obj\Debug\clase 22 septiembre.dll
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\obj\Debug\clase 22 septiembre.pdb
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\bin\clase 22 septiembre.dll
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\bin\clase 22 septiembre.pdb
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\obj\Debug\clase 22 septiembre.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\obj\Debug\clase 22 septiembre.dll
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 22 septiembre\clase 22 septiembre\obj\Debug\clase 22 septiembre.pdb
